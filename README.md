@@ -47,7 +47,7 @@ Uma aplicação de controle de hábitos completa, que utiliza as tecnologias mai
 ## 💻 Clonando projeto
 
 ```bash
-$ git clone https://github.com/izaiasmorais/nlw-setup.git && cd nlw-setup
+$ git clone git@github.com:jooaogbriel/nlw-Setup.git && cd nlw-setup
 ```
 
 ```bash
